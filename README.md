@@ -4,8 +4,6 @@ This is a solution to a calculator that does simple operations
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
   - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
